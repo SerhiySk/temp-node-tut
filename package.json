@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.13.0",
+    "lodash": "^4.17.21"
+  }
+}
